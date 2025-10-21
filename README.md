@@ -50,6 +50,4 @@ Meu perfil no LinkedIn foi totalmente reestruturado para atuar como uma "vitrine
 
 ## 🎥 Vídeo de Apresentação (Canva)
 
-Abaixo está o link para o vídeo de apresentação desta Etapa Intermediária, hospedado no Canva, onde demonstro as atualizações no GitHub e a navegação pelo novo perfil do LinkedIn.
-
-* **Link do Vídeo:** `[COLE AQUI O SEU LINK PÚBLICO DO CANVA]`
+Meu vídeo de apresentação desta Etapa Intermediária, hospedado no Canva, onde demonstro as atualizações no GitHub e a navegação pelo novo perfil do LinkedIn.
