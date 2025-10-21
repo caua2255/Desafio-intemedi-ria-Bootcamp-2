@@ -13,7 +13,7 @@ Estudante de Ciências da Computação no Uniceub de Brasília, apaixonado por t
 
 * Atualmente estou focado na **Etapa Intermediária** deste bootcamp, aprimorando meu portfólio e integrando meu perfil profissional.
 * Explorando o universo do código, um commit de cada vez.
-* Próximo desafio: aplicar **IA Generativa** na etapa final do projeto!
+* Próximo desafio: A Entrega final do projeto!
 
 ## 🔗 Conecte-se Comigo
 
