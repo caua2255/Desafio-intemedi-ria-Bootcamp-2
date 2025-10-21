@@ -1,4 +1,4 @@
-# Desafio-Intermediario-Bootcamp-1
+# Desafio-Intermediario-Bootcamp-2
 Entrega do Desafio Intermediário (Etapa 2) do Bootcamp 1, focado na evolução do portfólio e integração com LinkedIn.
 
 # Olá, eu sou Cauã Louzeiro Simões! 👋
